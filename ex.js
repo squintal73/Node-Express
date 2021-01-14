@@ -14,5 +14,4 @@ server.get('/api/', function(req,res){
 
 
 
-server.listen(3000, () => console.log('Executando...'))
-
+server.listen(3000, () => console.log('http://localhost:3000'))
